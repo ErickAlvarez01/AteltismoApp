@@ -1,0 +1,7 @@
+{
+  "name": "atletismoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
